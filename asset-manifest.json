@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tour-Places/static/css/main.cd0c6f65.chunk.css",
+    "main.js": "/Tour-Places/static/js/main.5d57b71d.chunk.js",
+    "main.js.map": "/Tour-Places/static/js/main.5d57b71d.chunk.js.map",
+    "runtime-main.js": "/Tour-Places/static/js/runtime-main.d2547d57.js",
+    "runtime-main.js.map": "/Tour-Places/static/js/runtime-main.d2547d57.js.map",
+    "static/js/2.a754d05f.chunk.js": "/Tour-Places/static/js/2.a754d05f.chunk.js",
+    "static/js/2.a754d05f.chunk.js.map": "/Tour-Places/static/js/2.a754d05f.chunk.js.map",
+    "static/js/3.48e5e1f4.chunk.js": "/Tour-Places/static/js/3.48e5e1f4.chunk.js",
+    "static/js/3.48e5e1f4.chunk.js.map": "/Tour-Places/static/js/3.48e5e1f4.chunk.js.map",
+    "index.html": "/Tour-Places/index.html",
+    "static/css/main.cd0c6f65.chunk.css.map": "/Tour-Places/static/css/main.cd0c6f65.chunk.css.map",
+    "static/js/2.a754d05f.chunk.js.LICENSE.txt": "/Tour-Places/static/js/2.a754d05f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2547d57.js",
+    "static/js/2.a754d05f.chunk.js",
+    "static/css/main.cd0c6f65.chunk.css",
+    "static/js/main.5d57b71d.chunk.js"
+  ]
+}
